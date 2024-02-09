@@ -1,1 +1,1 @@
-# excel-data-tool
+ I Developed an Excel-based data analysis tool that leverages Python scripts for advanced analytics. Designed an Excel user interface (UI) for inputting data and displaying results. Implemented Python scripts to perform complex data analysis tasks beyond Excel's capabilities.
